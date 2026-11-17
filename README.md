@@ -5,7 +5,7 @@ Este projeto lógico foi desenvolvido dentro do curso da DIO, com o intuito de r
 ---------------------------------------------------------------------------------------------------
 🎯 Objetivos
 ---------------------------------------------------------------------------------------------------
-• definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado 
+• Definir relacionamentos através de chaves primárias e estrangeiras, assim como as constraints presentes no cenário e-commerce
 
 • Elaborar Script SQL para criação do esquema do banco de dados    
 
