@@ -1,6 +1,6 @@
 📌 Visão geral do projeto
 --------------------------------------------------------------------------------------------------
-Este projeto lógico foi desenvolvido dentro do curso da DIO, com o intuito de replicar e refinar a modelagem do projeto lógico de banco de dados para o cenário de e-commerce, utilizando a ferramenta MySQL.
+Este projeto lógico foi desenvolvido dentro do curso da DIO, com o intuito de replicar e refinar a modelagem do projeto lógico de banco de dados para o cenário de e-commerce, abrangendo desde a criação do esquema relacional e persistência de dados para testes até a elaboração de consultas com junções (JOINs), filtros e agrupamentos utilizando a ferramenta MySQL.
 
 ---------------------------------------------------------------------------------------------------
 🎯 Objetivos
